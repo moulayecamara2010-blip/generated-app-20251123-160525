@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "v1-inclusion-and-impact-22719c7a-e388-47e6-8720-087697b47680",
+	"name": "inclusion-and-impact",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
